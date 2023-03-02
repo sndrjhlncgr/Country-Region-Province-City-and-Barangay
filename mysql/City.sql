@@ -1664,3 +1664,5 @@ INSERT INTO `refcitymun` VALUES ('1644', '168504000', 'LIBJO (ALBOR)', '16', '16
 INSERT INTO `refcitymun` VALUES ('1645', '168505000', 'LORETO', '16', '1685', '168505');
 INSERT INTO `refcitymun` VALUES ('1646', '168506000', 'SAN JOSE (Capital)', '16', '1685', '168506');
 INSERT INTO `refcitymun` VALUES ('1647', '168507000', 'TUBAJON', '16', '1685', '168507');
+
+UPDATE refcity SET citymunDesc=CONCAT(UPPER(SUBSTRING(citymunDesc,1,1)),LOWER(SUBSTRING(citymunDesc,2)))
