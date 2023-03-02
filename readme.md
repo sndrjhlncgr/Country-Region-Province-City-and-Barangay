@@ -1,4 +1,4 @@
-# Philippines Regions, Province, Cities and Barangay
+# Philippine - Regions, Province, Cities and Barangay
 
 SQL dump data containing the updated list of Philippines Regions, Province, City and Barangay
 
