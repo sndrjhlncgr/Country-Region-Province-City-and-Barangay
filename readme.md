@@ -4,6 +4,15 @@ SQL dump data containing the updated list of Philippines Regions, Province, City
 
 Excel raw data of (PSGC) Philippine Standard Geographic Codes containing the list of regions, provinces, cities and barangay. And also to help our fellow Filipino programmers/developers to ease their development.
 
+# Country (Nationality) List
+
+Country codes and nationality listing in the following formats:
+
+* CSV
+* JSON
+* MySQL
+* PHP (Array)
+
 Technical Details
 -----------------
 
